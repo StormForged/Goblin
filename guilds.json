@@ -1,0 +1,12 @@
+{
+    "guilds": [
+        {
+            "guild_name": "Test",
+            "guild_id": 355793730894168064,
+            "nsfw": true,
+            "blacklisted_search_terms": [
+            ],
+            "blacklisted_commands": []
+        },
+    ]
+}
